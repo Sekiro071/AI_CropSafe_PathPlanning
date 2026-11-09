@@ -1,0 +1,6 @@
+Algorithm,Reached,Moves,Path cost,Expanded,Time (ms),Replans
+BFS,Yes,13,53,83,0.578,-
+DFS,Yes,33,41,34,0.229,-
+Greedy,Yes,13,53,14,0.326,-
+A*,Yes,25,25,62,1.332,-
+A* online,Yes,27,39,106,2.188,1
