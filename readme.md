@@ -1,3 +1,4 @@
+
 # AI-Based Crop-Safe Path Planning
 
 This project simulates a potato-field robot. It compares BFS, DFS,
@@ -100,13 +101,13 @@ timings.
 
 Group number: [fill in]
 
-| Name | Roll number | Actual contribution |
-| --- | --- | --- |
-| [Member 1] | [Roll number] | [Contribution] |
-| [Member 2] | [Roll number] | [Contribution] |
-| [Member 3] | [Roll number] | [Contribution] |
-| [Member 4] | [Roll number] | [Contribution] |
-| [Member 5] | [Roll number] | [Contribution] |
+| Name       | Roll number   | Actual contribution |
+| ---------- | ------------- | ------------------- |
+| [Member 1] | [Roll number] | [Contribution]      |
+| [Member 2] | [Roll number] | [Contribution]      |
+| [Member 3] | [Roll number] | [Contribution]      |
+| [Member 4] | [Roll number] | [Contribution]      |
+| [Member 5] | [Roll number] | [Contribution]      |
 
 Add a sixth member if applicable.
 
